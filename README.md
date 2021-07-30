@@ -3,7 +3,7 @@
 - I'm currently learning Java and the Spring framework
 - 💞️ I am looking for cooperation in the field of Java programming
 - 📫 via GateHub's profile @adnanfarhadi
-                   Instagram @Adnan._. Far
+                   Instagram @Adnan._.Far
                    Skype @adnanfarhadi
                    You can find me
 
